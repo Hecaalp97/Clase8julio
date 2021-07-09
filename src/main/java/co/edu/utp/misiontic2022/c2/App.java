@@ -11,7 +11,7 @@ public class App {
         System.out.println("Hello World!");
         System.out.println(NS("12/07/1980"));
 
-        /** double precioUnidad, cantidad, iva, precioSinIva, totalIva;
+        double precioUnidad, cantidad, iva, precioSinIva, totalIva;
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca precio por unidad del producto: ");                                          
         precioUnidad = sc.nextDouble();
@@ -19,10 +19,10 @@ public class App {
         cantidad = sc.nextDouble();
         System.out.print("Introduzca %IVA: ");
         iva = sc.nextDouble();
-        */
-        /**double pu=8000;
+        
+        double pu=8000;
         double c=10;
-        double iva=16;*/
+        //double iva=16;
         //System.out.println(IVA(8000, 10, 16));
 
         /** int N, m;
